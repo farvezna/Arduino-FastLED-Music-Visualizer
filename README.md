@@ -1,4 +1,6 @@
 # Arduino FastLED Music Visualizer
+NOTE: I created my own PCB to hold an Arduino Nano to gain more practice with PCB layout and soldering through this cool project but all credits to code for RGB lighting are from Just Call Me Koko and the rest of the README below is of his works. All my own contributions are within the Nabid PCB folder.
+
 <p align="center">
   <img width="450" height="300" src="https://github.com/the-red-team/Arduino-FastLED-Music-Visualizer/blob/master/images/mirrored_visualizer.gif">
   <br>
